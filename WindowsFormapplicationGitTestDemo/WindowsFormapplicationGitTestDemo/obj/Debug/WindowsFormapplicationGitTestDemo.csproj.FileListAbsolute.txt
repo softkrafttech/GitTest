@@ -1,4 +1,5 @@
 D:\Aviraj\GitTest\GitTest\WindowsFormapplicationGitTestDemo\WindowsFormapplicationGitTestDemo\bin\Debug\WindowsFormapplicationGitTestDemo.exe.config
+<<<<<<< HEAD
 C:\Users\softkraft\Documents\GitTest\GitTest\WindowsFormapplicationGitTestDemo\WindowsFormapplicationGitTestDemo\bin\Debug\WindowsFormapplicationGitTestDemo.exe.config
 C:\Users\softkraft\Documents\GitTest\GitTest\WindowsFormapplicationGitTestDemo\WindowsFormapplicationGitTestDemo\bin\Debug\WindowsFormapplicationGitTestDemo.exe
 C:\Users\softkraft\Documents\GitTest\GitTest\WindowsFormapplicationGitTestDemo\WindowsFormapplicationGitTestDemo\bin\Debug\WindowsFormapplicationGitTestDemo.pdb
@@ -8,3 +9,6 @@ C:\Users\softkraft\Documents\GitTest\GitTest\WindowsFormapplicationGitTestDemo\W
 C:\Users\softkraft\Documents\GitTest\GitTest\WindowsFormapplicationGitTestDemo\WindowsFormapplicationGitTestDemo\obj\Debug\WindowsFormapplicationGitTestDemo.csproj.GenerateResource.Cache
 C:\Users\softkraft\Documents\GitTest\GitTest\WindowsFormapplicationGitTestDemo\WindowsFormapplicationGitTestDemo\obj\Debug\WindowsFormapplicationGitTestDemo.exe
 C:\Users\softkraft\Documents\GitTest\GitTest\WindowsFormapplicationGitTestDemo\WindowsFormapplicationGitTestDemo\obj\Debug\WindowsFormapplicationGitTestDemo.pdb
+=======
+E:\Ashwini\GitTest\WindowsFormapplicationGitTestDemo\WindowsFormapplicationGitTestDemo\bin\Debug\WindowsFormapplicationGitTestDemo.exe.config
+>>>>>>> 1589e36e5e39e089bd824d57fe339ec37b53638b
